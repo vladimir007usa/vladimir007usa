@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  🔭 I’m currently working on <b>Awesome Projects</b> <br>
-  🌱 I’m currently learning <b>Full Stack Development</b> <br>
-  💬 Ask me about <b>React, Next.js, and Node</b>
+  🔭 I’m currently working on <b>Creative Web Solutions</b> <br>
+  🌱 I’m currently learning <b>Advanced Design Systems & Microservices</b> <br>
+  💬 Ask me about <b>Full Stack Architecture, UI/UX Design, and Pixel-Perfect Apps</b>
 </p>
 
 ---
