@@ -13,28 +13,31 @@
   🌱 I’m currently learning <b>Full Stack Development</b> <br>
   💬 Ask me about <b>React, Next.js, and Node</b>
 </p>
+
+---
+
+<div align="center">
+
 ## 💻 Tech Stack
 
 ### 🌐 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass" />
 
 ### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,supabase" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,supabase" />
 
 ### 🛠️ Tools & Deployment
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,npm,vercel,netlify,vscode,figma" />
-</p>
-### 📊 GitHub Metrics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vladimir007usa&theme=radical&hide_border=true" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,docker,npm,vercel,netlify,vscode,figma" />
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vladimir007usa&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimir007usa&layout=compact&theme=radical&hide_border=true" />
-</p>
+---
+
+## 📊 GitHub Metrics
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vladimir007usa&theme=radical&hide_border=true" />
+
+<br/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vladimir007usa&show_icons=true&theme=radical&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimir007usa&layout=compact&theme=radical&hide_border=true" />
+
+</div>
