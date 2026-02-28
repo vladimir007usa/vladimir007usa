@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=53C1F1&center=true&vCenter=true&width=600&lines=Hi,+I+am+Rakesh+Naskar;Full+Stack+Developer" alt="Typing SVG" />
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=vladimir007usa&fontSize=80&animation=fadeIn" />
 </p>
@@ -15,8 +19,6 @@
 </p>
 
 ---
-
-<div align="center">
 
 ## 💻 Tech Stack
 
