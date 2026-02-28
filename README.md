@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=53C1F1&center=true&vCenter=true&width=600&lines=Hi,+I+am+Rakesh+Naskar;Full+Stack+Developer" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=vladimir007usa&fontSize=80&animation=fadeIn" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Rakesh%20Naskar&fontSize=80&fontAlignY=25&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20NEXTJS&descSize=40&descAlignY=51" alt="Banner" />
+
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
