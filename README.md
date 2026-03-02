@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  🔭 I’m currently working on <b>Creative Web Solutions</b> <br>
-  🌱 I’m currently learning <b>Advanced Design Systems & Microservices</b> <br>
-  💬 Ask me about <b>Full Stack Architecture, UI/UX Design, and Pixel-Perfect Apps</b>
+  <small>🔭 Currently working on <b>Creative Web Solutions</b></small> <br>
+  <small>🌱 Learning <b>Advanced Design Systems & Microservices</b></small> <br>
+  <small>💬 Ask me about <b>Full Stack Architecture, UI/UX Design, and Pixel-Perfect Apps</b></small>
 </p>
 
 ---
@@ -28,8 +28,14 @@
 ### ⚙️ Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,supabase" />
 
+### 🛡️ Cyber Security
+<img src="https://skillicons.dev/icons?i=kali,linux,networks,debian" />
+
+### 🎨 Design & Creative
+<img src="https://skillicons.dev/icons?i=figma,ae,pr,ps,ai,xd" />
+
 ### 🛠️ Tools & Deployment
-<img src="https://skillicons.dev/icons?i=git,docker,npm,vercel,netlify,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,docker,npm,vercel,netlify,vscode" />
 
 ---
 
