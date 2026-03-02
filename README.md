@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=53C1F1&center=true&vCenter=true&width=600&lines=Hi,+I+am+Rakesh+Naskar;Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=53C1F1&center=true&vCenter=true&width=600&lines=Hi,+I+am+Rakesh+Naskar;Full+Stack+Developer;Visual+Designer" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Rakesh%20Naskar&fontSize=80&fontAlignY=25&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Visual%20Designer&descSize=40&descAlignY=51" alt="Banner" />
 
