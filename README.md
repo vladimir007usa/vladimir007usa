@@ -46,21 +46,19 @@
 
 ## 📊 GitHub Metrics
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/slackmoji/slackmoji/master/emoji/parrots/parrot-trinidadandtobago.gif" width="30" />
+  <img src="https://raw.githubusercontent.com/slackmoji/slackmoji/master/emoji/parrots/parrot-trinidadandtobago.gif" width="30" />
+  <img src="https://raw.githubusercontent.com/slackmoji/slackmoji/master/emoji/parrots/parrot-trinidadandtobago.gif" width="30" />
+  <img src="https://raw.githubusercontent.com/slackmoji/slackmoji/master/emoji/parrots/parrot-trinidadandtobago.gif" width="30" />
+  <img src="https://raw.githubusercontent.com/slackmoji/slackmoji/master/emoji/parrots/parrot-trinidadandtobago.gif" width="30" />
+</p>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vladimir007usa&theme=radical&hide_border=true" />
 
 <br/>
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vladimir007usa&show_icons=true&theme=radical&hide_border=true" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimir007usa&layout=compact&theme=radical&hide_border=true" />
-
-<br/><br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/slackmoji/slackmoji/master/emoji/parrots/parrot-trinidadandtobago.gif" width="35" />
-  <img src="https://raw.githubusercontent.com/slackmoji/slackmoji/master/emoji/parrots/parrot-trinidadandtobago.gif" width="35" />
-  <img src="https://raw.githubusercontent.com/slackmoji/slackmoji/master/emoji/parrots/parrot-trinidadandtobago.gif" width="35" />
-  <img src="https://raw.githubusercontent.com/slackmoji/slackmoji/master/emoji/parrots/parrot-trinidadandtobago.gif" width="35" />
-  <img src="https://raw.githubusercontent.com/slackmoji/slackmoji/master/emoji/parrots/parrot-trinidadandtobago.gif" width="35" />
-</p>
 
 </div>
