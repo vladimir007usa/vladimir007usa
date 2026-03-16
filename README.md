@@ -70,7 +70,14 @@
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vladimir007usa&show_icons=true&theme=radical&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimir007usa&layout=compact&theme=radical&hide_border=true" />
+<img width="98%" src="https://github-readme-stats.vercel.app/api?username=vladimir007usa&show_icons=true&theme=radical&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://camo.githubusercontent.com/68a0cc3a0e5e12f5e57c4e6719efe20d9d235cb1ff66478c91513b764313122c/68747470733a2f2f632e74656e6f722e636f6d2f534f564d53586d5742316b41414141692f746f6e792d737461722d6a756d70696e672e676966" width="300" />
+
+<br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimir007usa&layout=compact&theme=radical&hide_border=true" />
 
 </div>
