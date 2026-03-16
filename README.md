@@ -47,11 +47,11 @@
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/slackmoji/slackmoji/master/emoji/parrots/parrot-trinidadandtobago.gif" width="30" />
-  <img src="https://raw.githubusercontent.com/slackmoji/slackmoji/master/emoji/parrots/parrot-trinidadandtobago.gif" width="30" />
-  <img src="https://raw.githubusercontent.com/slackmoji/slackmoji/master/emoji/parrots/parrot-trinidadandtobago.gif" width="30" />
-  <img src="https://raw.githubusercontent.com/slackmoji/slackmoji/master/emoji/parrots/parrot-trinidadandtobago.gif" width="30" />
-  <img src="https://raw.githubusercontent.com/slackmoji/slackmoji/master/emoji/parrots/parrot-trinidadandtobago.gif" width="30" />
+  <img src="./parrot-unitedstatesofamerica.gif" width="30" />
+  <img src="./parrot-unitedstatesofamerica.gif" width="30" />
+  <img src="./parrot-unitedstatesofamerica.gif" width="30" />
+  <img src="./parrot-unitedstatesofamerica.gif" width="30" />
+  <img src="./parrot-unitedstatesofamerica.gif" width="30" />
 </p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vladimir007usa&theme=radical&hide_border=true" />
