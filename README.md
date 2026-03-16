@@ -47,10 +47,15 @@
 ## 📊 GitHub Metrics
 
 <p align="center">
+  <img src="./parrot-russia.gif" width="30" />
   <img src="./parrot-unitedstatesofamerica.gif" width="30" />
+  <img src="./parrot-russia.gif" width="30" />
   <img src="./parrot-unitedstatesofamerica.gif" width="30" />
+  <img src="./parrot-russia.gif" width="30" />
   <img src="./parrot-unitedstatesofamerica.gif" width="30" />
+  <img src="./parrot-russia.gif" width="30" />
   <img src="./parrot-unitedstatesofamerica.gif" width="30" />
+  <img src="./parrot-russia.gif" width="30" />
   <img src="./parrot-unitedstatesofamerica.gif" width="30" />
 </p>
 
