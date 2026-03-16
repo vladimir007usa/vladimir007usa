@@ -53,6 +53,8 @@
 
 <br/>
 
+<img src="https://camo.githubusercontent.com/f527df956469ad0483ff00bd9e00489a89b5be942e010fd956b36c2953a52d8f/68747470733a2f2f632e74656e6f722e636f6d2f585362443930326e31667741414141692f72656e6e656e2d666173742e676966" width="120" />
+
 <p align="center">
   <img src="./parrot-russia.gif" width="30" />
   <img src="./parrot-unitedstatesofamerica.gif" width="30" />
