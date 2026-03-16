@@ -46,6 +46,10 @@
 
 ## 📊 GitHub Metrics
 
+<img src="https://camo.githubusercontent.com/22a576b03917b5fb898d6b4f33fe7a67d658f88e2057bb4a77b57f8ae5d06366/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4950377361726c3743356c534643773972472f67697068792e676966" width="100%" />
+
+<br/>
+
 <p align="center">
   <img src="./parrot-russia.gif" width="30" />
   <img src="./parrot-unitedstatesofamerica.gif" width="30" />
