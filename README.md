@@ -22,20 +22,26 @@
 
 ## 💻 Tech Stack
 
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass" />
-
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,supabase" />
-
-### 🛡️ Cyber Security
-<img src="https://skillicons.dev/icons?i=kali,linux,networks,debian" />
-
-### 🎨 Design & Creative
-<img src="https://skillicons.dev/icons?i=figma,ae,pr,ps,ai,xd" />
-
-### 🛠️ Tools & Deployment
-<img src="https://skillicons.dev/icons?i=git,docker,npm,vercel,netlify,vscode" />
+<table align="center">
+  <tr>
+    <td align="center" valign="center" width="30%">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="150px" />
+    </td>
+    
+    <td align="left" valign="top">
+      <b>🌐 Frontend</b><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass" /><br/><br/>
+      <b>⚙️ Backend & Database</b><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,supabase" /><br/><br/>
+      <b>🛡️ Cyber Security</b><br/>
+      <img src="https://skillicons.dev/icons?i=kali,linux,networks,debian" /><br/><br/>
+      <b>🎨 Design & Creative</b><br/>
+      <img src="https://skillicons.dev/icons?i=figma,ae,pr,ps,ai,xd" /><br/><br/>
+      <b>🛠️ Tools & Deployment</b><br/>
+      <img src="https://skillicons.dev/icons?i=git,docker,npm,vercel,netlify,vscode" />
+    </td>
+  </tr>
+</table>
 
 ---
 
