@@ -82,4 +82,8 @@
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimir007usa&layout=compact&theme=radical&hide_border=true" />
 
+<br/><br/>
+
+<img src="./footer.svg" width="100%" />
+
 </div>
