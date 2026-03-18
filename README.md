@@ -78,7 +78,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vladimir007usa&theme=radical&hide_border=true" />
 
-<br>
+<br/>
 
 <img width="98%" src="https://github-readme-stats.vercel.app/api?username=vladimir007usa&show_icons=true&theme=radical&hide_border=true" />
 
@@ -102,5 +102,9 @@
 <img src="./marquee.svg" width="100%" />
 <br/><br/>
 <img src="./footer.svg" width="100%" />
+
+<br/><br/>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnF4dG9va3pubDdvdjY1dzlxNDkyYnR2NGFvaHpmamd4ODV3a2Q5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xrvCI5ykhg9QQ/giphy.gif" width="100%" />
 
 </div>
