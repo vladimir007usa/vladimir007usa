@@ -56,16 +56,16 @@
 <img src="https://camo.githubusercontent.com/f527df956469ad0483ff00bd9e00489a89b5be942e010fd956b36c2953a52d8f/68747470733a2f2f632e74656e6f722e636f6d2f585362443930326e31667741414141692f72656e6e656e2d666173742e676966" width="120" />
 
 <p align="center">
-  <img src="./parrot-russia.gif" width="30" />
-  <img src="./parrot-unitedstatesofamerica.gif" width="30" />
-  <img src="./parrot-russia.gif" width="30" />
-  <img src="./parrot-unitedstatesofamerica.gif" width="30" />
-  <img src="./parrot-russia.gif" width="30" />
-  <img src="./parrot-unitedstatesofamerica.gif" width="30" />
-  <img src="./parrot-russia.gif" width="30" />
-  <img src="./parrot-unitedstatesofamerica.gif" width="30" />
-  <img src="./parrot-russia.gif" width="30" />
-  <img src="./parrot-unitedstatesofamerica.gif" width="30" />
+  <img src="./parrot-russia.gif" width="60" />
+  <img src="./parrot-unitedstatesofamerica.gif" width="60" />
+  <img src="./parrot-russia.gif" width="60" />
+  <img src="./parrot-unitedstatesofamerica.gif" width="60" />
+  <img src="./parrot-russia.gif" width="60" />
+  <img src="./parrot-unitedstatesofamerica.gif" width="60" />
+  <img src="./parrot-russia.gif" width="60" />
+  <img src="./parrot-unitedstatesofamerica.gif" width="60" />
+  <img src="./parrot-russia.gif" width="60" />
+  <img src="./parrot-unitedstatesofamerica.gif" width="60" />
 </p>
 
 <picture>
@@ -78,7 +78,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vladimir007usa&theme=radical&hide_border=true" />
 
-<br/>
+<br>
 
 <img width="98%" src="https://github-readme-stats.vercel.app/api?username=vladimir007usa&show_icons=true&theme=radical&hide_border=true" />
 
@@ -100,9 +100,7 @@
 <br/>
 
 <img src="./marquee.svg" width="100%" />
-
 <br/><br/>
-
 <img src="./footer.svg" width="100%" />
 
 </div>
